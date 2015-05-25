@@ -1,18 +1,19 @@
 {
   "name": "release-changelog-sandbox",
   "version": "0.0.1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "kazuya kawaguchi",
+  "bugs": {
+    "url": "https://github.com/kazupon/release-changelog-sandbox/issues"
   },
+  "homepage": "https://github.com/kazupon/release-changelog-sandbox",
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazupon/release-changelog-sandbox.git"
   },
-  "author": "kazuya kawaguchi",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kazupon/release-changelog-sandbox/issues"
-  },
-  "homepage": "https://github.com/kazupon/release-changelog-sandbox"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
